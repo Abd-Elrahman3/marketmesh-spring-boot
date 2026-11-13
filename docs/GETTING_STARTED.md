@@ -7,8 +7,8 @@ Finish the first five starters. Choose Java 21+ and a supported stable Spring Bo
 ## 2. Clone and read
 
 ```bash
-git clone https://github.com/Abd-Elrahman3/06-marketmesh-spring-boot.git
-cd 06-marketmesh-spring-boot
+git clone https://github.com/Abd-Elrahman3/marketmesh-spring-boot.git
+cd marketmesh-spring-boot
 git switch -c feature/m1-domain
 ```
 
